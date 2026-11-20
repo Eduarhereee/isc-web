@@ -1,0 +1,623 @@
+{
+  "clients": [
+    "HOLCIM MÉXICO",
+    "CFE",
+    "IMSS",
+    "CAFINCO",
+    "CONSTRUCTORA ROJI",
+    "ZAPATERÍAS VAZZA",
+    "FLEXI",
+    "TRENDER",
+    "NOVO HIELO · GRUPO MONTOSA",
+    "BONAFONT",
+    "ALIMENTOS SAN CAYETANO",
+    "MONTE DE PIEDAD",
+    "EMBALAJES Y PLÁSTICOS DE CÓRDOBA",
+    "CAFETALERA EL CARMEN",
+    "ALIMENTOS OCHOA",
+    "SOLISTICA"
+  ],
+  "services": [
+    {
+      "slug": "inoxidable",
+      "title": "Acero inoxidable",
+      "long": "Acero inoxidable y grado alimenticio",
+      "intro": "Fabricación, intervención y montaje de piezas, tolvas, cabinas y tuberías especializadas.",
+      "cover_src": "assets/inoxidable-11.webp",
+      "count": 13
+    },
+    {
+      "slug": "soldadura",
+      "title": "Soldadura",
+      "long": "Soldadura",
+      "intro": "Intervenciones de soldadura en piezas, elementos metálicos y estructuras.",
+      "cover_src": "assets/soldadura-01.webp",
+      "count": 4
+    },
+    {
+      "slug": "obra-civil",
+      "title": "Obra civil",
+      "long": "Obra civil",
+      "intro": "Remodelación de espacios, trabajos constructivos y adecuaciones de infraestructura.",
+      "cover_src": "assets/obra-civil-07.webp",
+      "count": 7
+    },
+    {
+      "slug": "electrico",
+      "title": "Mantenimiento eléctrico",
+      "long": "Mantenimiento eléctrico",
+      "intro": "Intervenciones en instalaciones, luminarias y equipos eléctricos de espacios operativos.",
+      "cover_src": "assets/electrico-02.webp",
+      "count": 3
+    },
+    {
+      "slug": "acabados",
+      "title": "Pintura y acabados",
+      "long": "Pintura, impermeabilización y tablaroca",
+      "intro": "Conservación de fachadas, adecuación de interiores y acabados en establecimientos.",
+      "cover_src": "assets/acabados-02.webp",
+      "count": 4
+    },
+    {
+      "slug": "climatizacion",
+      "title": "Climatización",
+      "long": "Mantenimiento de minisplits",
+      "intro": "Atención a equipos de aire acondicionado en instalaciones comerciales e industriales.",
+      "cover_src": "assets/climatizacion-03.webp",
+      "count": 4
+    }
+  ],
+  "photographs": [
+    {
+      "id": "inoxidable-01",
+      "category": "inoxidable",
+      "src": "assets/inoxidable-01.webp",
+      "width": 960,
+      "height": 1280,
+      "alt": "Personal trabajando con equipo de acero inoxidable en planta",
+      "source_archive": "Trabajos de acero inoxidable, grado alimenticio, tuberías de amoniaco, tolvas, cabinas y piezas en acero inoxidable.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.35 PM.jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "inoxidable-02",
+      "category": "inoxidable",
+      "src": "assets/inoxidable-02.webp",
+      "width": 960,
+      "height": 1280,
+      "alt": "Vista adicional de equipo de acero inoxidable en fabricación",
+      "source_archive": "Trabajos de acero inoxidable, grado alimenticio, tuberías de amoniaco, tolvas, cabinas y piezas en acero inoxidable.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.35 PM (1).jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "inoxidable-03",
+      "category": "inoxidable",
+      "src": "assets/inoxidable-03.webp",
+      "width": 960,
+      "height": 1280,
+      "alt": "Detalle de pieza o receptáculo fabricado en acero inoxidable",
+      "source_archive": "Trabajos de acero inoxidable, grado alimenticio, tuberías de amoniaco, tolvas, cabinas y piezas en acero inoxidable.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.36 PM.jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "inoxidable-04",
+      "category": "inoxidable",
+      "src": "assets/inoxidable-04.webp",
+      "width": 960,
+      "height": 1280,
+      "alt": "Operario trabajando sobre pieza de acero inoxidable",
+      "source_archive": "Trabajos de acero inoxidable, grado alimenticio, tuberías de amoniaco, tolvas, cabinas y piezas en acero inoxidable.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.36 PM (1).jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "inoxidable-05",
+      "category": "inoxidable",
+      "src": "assets/inoxidable-05.webp",
+      "width": 719,
+      "height": 1280,
+      "alt": "Técnicos junto a tubería instalada en altura",
+      "source_archive": "Trabajos de acero inoxidable, grado alimenticio, tuberías de amoniaco, tolvas, cabinas y piezas en acero inoxidable.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.36 PM (2).jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "inoxidable-06",
+      "category": "inoxidable",
+      "src": "assets/inoxidable-06.webp",
+      "width": 540,
+      "height": 960,
+      "alt": "Equipo de elevación frente a líneas de tubería industrial",
+      "source_archive": "Trabajos de acero inoxidable, grado alimenticio, tuberías de amoniaco, tolvas, cabinas y piezas en acero inoxidable.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.36 PM (3).jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "inoxidable-07",
+      "category": "inoxidable",
+      "src": "assets/inoxidable-07.webp",
+      "width": 719,
+      "height": 1280,
+      "alt": "Personal y plataforma elevadora durante montaje de tuberías",
+      "source_archive": "Trabajos de acero inoxidable, grado alimenticio, tuberías de amoniaco, tolvas, cabinas y piezas en acero inoxidable.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.37 PM.jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "inoxidable-08",
+      "category": "inoxidable",
+      "src": "assets/inoxidable-08.webp",
+      "width": 1280,
+      "height": 719,
+      "alt": "Montaje de tuberías industriales de acero inoxidable",
+      "source_archive": "Trabajos de acero inoxidable, grado alimenticio, tuberías de amoniaco, tolvas, cabinas y piezas en acero inoxidable.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.37 PM (1).jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "inoxidable-09",
+      "category": "inoxidable",
+      "src": "assets/inoxidable-09.webp",
+      "width": 899,
+      "height": 1599,
+      "alt": "Técnico trabajando sobre una línea industrial de tubería",
+      "source_archive": "Trabajos de acero inoxidable, grado alimenticio, tuberías de amoniaco, tolvas, cabinas y piezas en acero inoxidable.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.37 PM (2).jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "inoxidable-10",
+      "category": "inoxidable",
+      "src": "assets/inoxidable-10.webp",
+      "width": 900,
+      "height": 1600,
+      "alt": "Estructura y equipo industrial fabricado en acero inoxidable",
+      "source_archive": "Trabajos de acero inoxidable, grado alimenticio, tuberías de amoniaco, tolvas, cabinas y piezas en acero inoxidable.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.38 PM.jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "inoxidable-11",
+      "category": "inoxidable",
+      "src": "assets/inoxidable-11.webp",
+      "width": 1599,
+      "height": 899,
+      "alt": "Conjunto de protección industrial y equipo en planta",
+      "source_archive": "Trabajos de acero inoxidable, grado alimenticio, tuberías de amoniaco, tolvas, cabinas y piezas en acero inoxidable.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.38 PM (1).jpeg",
+      "recommended_cover": true
+    },
+    {
+      "id": "inoxidable-12",
+      "category": "inoxidable",
+      "src": "assets/inoxidable-12.webp",
+      "width": 899,
+      "height": 1599,
+      "alt": "Personal trabajando junto a una estructura metálica de protección",
+      "source_archive": "Trabajos de acero inoxidable, grado alimenticio, tuberías de amoniaco, tolvas, cabinas y piezas en acero inoxidable.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.38 PM (2).jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "inoxidable-13",
+      "category": "inoxidable",
+      "src": "assets/inoxidable-13.webp",
+      "width": 899,
+      "height": 1599,
+      "alt": "Vista de estructura y equipo industrial en acero inoxidable",
+      "source_archive": "Trabajos de acero inoxidable, grado alimenticio, tuberías de amoniaco, tolvas, cabinas y piezas en acero inoxidable.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.38 PM (3).jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "soldadura-01",
+      "category": "soldadura",
+      "src": "assets/soldadura-01.webp",
+      "width": 720,
+      "height": 1280,
+      "alt": "Técnico soldando un elemento metálico en área exterior",
+      "source_archive": "Soldadura.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.25 PM.jpeg",
+      "recommended_cover": true
+    },
+    {
+      "id": "soldadura-02",
+      "category": "soldadura",
+      "src": "assets/soldadura-02.webp",
+      "width": 720,
+      "height": 1280,
+      "alt": "Trabajo de soldadura junto a estructura exterior",
+      "source_archive": "Soldadura.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.25 PM (1).jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "soldadura-03",
+      "category": "soldadura",
+      "src": "assets/soldadura-03.webp",
+      "width": 720,
+      "height": 1280,
+      "alt": "Trabajador realizando montaje metálico desde altura",
+      "source_archive": "Soldadura.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.26 PM.jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "soldadura-04",
+      "category": "soldadura",
+      "src": "assets/soldadura-04.webp",
+      "width": 960,
+      "height": 1280,
+      "alt": "Personal interviniendo estructura metálica elevada",
+      "source_archive": "Soldadura.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.26 PM (1).jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "obra-civil-01",
+      "category": "obra-civil",
+      "src": "assets/obra-civil-01.webp",
+      "width": 720,
+      "height": 1280,
+      "alt": "Preparación de superficie en obra de remodelación interior",
+      "source_archive": "Obra civil.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.09 PM.jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "obra-civil-02",
+      "category": "obra-civil",
+      "src": "assets/obra-civil-02.webp",
+      "width": 720,
+      "height": 1280,
+      "alt": "Intervención y preparación de piso en pasillo interior",
+      "source_archive": "Obra civil.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.09 PM (1).jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "obra-civil-03",
+      "category": "obra-civil",
+      "src": "assets/obra-civil-03.webp",
+      "width": 1280,
+      "height": 960,
+      "alt": "Espacio interior después de trabajo de adecuación",
+      "source_archive": "Obra civil.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.10 PM.jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "obra-civil-04",
+      "category": "obra-civil",
+      "src": "assets/obra-civil-04.webp",
+      "width": 720,
+      "height": 1280,
+      "alt": "Zona interior con acabado de piso y muros",
+      "source_archive": "Obra civil.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.10 PM (1).jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "obra-civil-05",
+      "category": "obra-civil",
+      "src": "assets/obra-civil-05.webp",
+      "width": 719,
+      "height": 1280,
+      "alt": "Personal trabajando en excavación exterior",
+      "source_archive": "Obra civil.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.10 PM (2).jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "obra-civil-06",
+      "category": "obra-civil",
+      "src": "assets/obra-civil-06.webp",
+      "width": 540,
+      "height": 960,
+      "alt": "Preparación de terreno en zona de obra",
+      "source_archive": "Obra civil.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.10 PM (3).jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "obra-civil-07",
+      "category": "obra-civil",
+      "src": "assets/obra-civil-07.webp",
+      "width": 960,
+      "height": 1280,
+      "alt": "Personal en obra civil realizando trabajos de excavación",
+      "source_archive": "Obra civil.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.11 PM.jpeg",
+      "recommended_cover": true
+    },
+    {
+      "id": "electrico-01",
+      "category": "electrico",
+      "src": "assets/electrico-01.webp",
+      "width": 780,
+      "height": 1040,
+      "alt": "Personal en estructura de trabajo atendiendo instalación eléctrica comercial",
+      "source_archive": "Mantenimiento electrico.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.47.01 PM.jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "electrico-02",
+      "category": "electrico",
+      "src": "assets/electrico-02.webp",
+      "width": 720,
+      "height": 1280,
+      "alt": "Técnicos realizando mantenimiento en interior de establecimiento",
+      "source_archive": "Mantenimiento electrico.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.47.01 PM (1).jpeg",
+      "recommended_cover": true
+    },
+    {
+      "id": "electrico-03",
+      "category": "electrico",
+      "src": "assets/electrico-03.webp",
+      "width": 720,
+      "height": 1280,
+      "alt": "Trabajador revisando instalación de luminaria desde andamio",
+      "source_archive": "Mantenimiento electrico.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.47.02 PM.jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "acabados-01",
+      "category": "acabados",
+      "src": "assets/acabados-01.webp",
+      "width": 1280,
+      "height": 719,
+      "alt": "Trabajo en fachada comercial durante labores de mantenimiento",
+      "source_archive": "Pintura , impermeabilización y tablaroca.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.47.02 PM (1).jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "acabados-02",
+      "category": "acabados",
+      "src": "assets/acabados-02.webp",
+      "width": 1280,
+      "height": 720,
+      "alt": "Técnico en andamio trabajando sobre fachada pintada",
+      "source_archive": "Pintura , impermeabilización y tablaroca.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.47.02 PM (2).jpeg",
+      "recommended_cover": true
+    },
+    {
+      "id": "acabados-03",
+      "category": "acabados",
+      "src": "assets/acabados-03.webp",
+      "width": 720,
+      "height": 1280,
+      "alt": "Trabajo interior de plafón o acabado desde escalera",
+      "source_archive": "Pintura , impermeabilización y tablaroca.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.47.03 PM.jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "acabados-04",
+      "category": "acabados",
+      "src": "assets/acabados-04.webp",
+      "width": 1280,
+      "height": 720,
+      "alt": "Mantenimiento exterior en fachada de establecimiento comercial",
+      "source_archive": "Pintura , impermeabilización y tablaroca.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.47.02 PM.jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "climatizacion-01",
+      "category": "climatizacion",
+      "src": "assets/climatizacion-01.webp",
+      "width": 1280,
+      "height": 960,
+      "alt": "Personal realizando trabajo en unidad exterior de aire acondicionado",
+      "source_archive": "Mantenimiento a minisplits.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.54 PM.jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "climatizacion-02",
+      "category": "climatizacion",
+      "src": "assets/climatizacion-02.webp",
+      "width": 1280,
+      "height": 720,
+      "alt": "Unidad de aire acondicionado interior abierta para mantenimiento",
+      "source_archive": "Mantenimiento a minisplits.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.54 PM (1).jpeg",
+      "recommended_cover": false
+    },
+    {
+      "id": "climatizacion-03",
+      "category": "climatizacion",
+      "src": "assets/climatizacion-03.webp",
+      "width": 1280,
+      "height": 960,
+      "alt": "Técnico trabajando desde una escalera en equipos exteriores",
+      "source_archive": "Mantenimiento a minisplits.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.53 PM.jpeg",
+      "recommended_cover": true
+    },
+    {
+      "id": "climatizacion-04",
+      "category": "climatizacion",
+      "src": "assets/climatizacion-04.webp",
+      "width": 1280,
+      "height": 960,
+      "alt": "Vista general de unidades exteriores durante mantenimiento",
+      "source_archive": "Mantenimiento a minisplits.zip",
+      "original_filename": "WhatsApp Image 2026-11-11 at 1.46.53 PM (1).jpeg",
+      "recommended_cover": false
+    }
+  ],
+  "documented_projects": [
+    {
+      "slug": "holcim-precalentador",
+      "client": "Holcim México",
+      "place": "Planta Orizaba",
+      "year": "Proyecto documentado",
+      "title": "Intervención en precalentador de horno",
+      "tag": "Soldadura industrial",
+      "category": "soldadura",
+      "summary": "Sustitución y aplicación de soldadura en placas de acero dañadas del cono 2, etapa 4 del precalentador del horno 3, con maniobras de izaje.",
+      "images": [
+        "cv-p09-02.webp",
+        "cv-p09-04.webp"
+      ]
+    },
+    {
+      "slug": "holcim-paletizadora",
+      "client": "Holcim México",
+      "place": "Planta Orizaba",
+      "year": "Proyecto documentado",
+      "title": "Instalación electromecánica de paletizadora",
+      "tag": "Electromecánica",
+      "category": "electrico",
+      "summary": "Instalación de una paletizadora en el área de envase y servicio electromecánico asociado.",
+      "images": [
+        "cv-p10-02.webp"
+      ]
+    },
+    {
+      "slug": "cfe-ciclo-combinado",
+      "client": "CFE",
+      "place": "Cuautla, Morelos",
+      "year": "Proyecto documentado",
+      "title": "Protección industrial en central de ciclo combinado",
+      "tag": "Recubrimientos",
+      "category": "acabados",
+      "summary": "Servicio de sandblasting y pintura de generador de vapor General Electric, junto con sustitución de aislamiento de fibra de vidrio en tubería caliente.",
+      "images": [
+        "cv-p11-01.webp"
+      ]
+    },
+    {
+      "slug": "imss-plafon",
+      "client": "IMSS",
+      "place": "Hospital General Regional, Orizaba",
+      "year": "Proyecto documentado",
+      "title": "Construcción ligera en áreas interiores",
+      "tag": "Obra civil",
+      "category": "obra-civil",
+      "summary": "Construcción ligera mediante instalación de plafón corrido con acabado liso.",
+      "images": [
+        "cv-p12-02.webp",
+        "cv-p12-01.webp",
+        "cv-p12-03.webp"
+      ]
+    },
+    {
+      "slug": "cafinco-aglomerador",
+      "client": "CAFINCO",
+      "place": "Córdoba, Veracruz",
+      "year": "Proyecto documentado",
+      "title": "Cimentación y estructura para aglomerador",
+      "tag": "Obra civil",
+      "category": "obra-civil",
+      "summary": "Trabajos de excavación, cimentación y estructura de cinco niveles para proyecto de aglomerador.",
+      "images": [
+        "cv-p13-02.webp",
+        "cv-p13-04.webp"
+      ]
+    },
+    {
+      "slug": "holcim-mantenimiento-mecanico",
+      "client": "Holcim México",
+      "place": "Planta Orizaba",
+      "year": "Proyecto documentado",
+      "title": "Alineación y mantenimiento de equipo mecánico",
+      "tag": "Mantenimiento mecánico",
+      "category": "soldadura",
+      "summary": "Alineación de motor por cambio de acoplamiento de malla, inspección y rectificación de engranes, lubricación y ensamble de equipo.",
+      "images": [
+        "cv-p14-01.webp",
+        "cv-p14-02.webp",
+        "cv-p14-03.webp",
+        "cv-p14-04.webp"
+      ]
+    },
+    {
+      "slug": "novohielo-estructura",
+      "client": "Novo Hielo · Grupo Montosa",
+      "place": "Instalación industrial",
+      "year": "Proyecto documentado",
+      "title": "Estructuras y elementos en acero inoxidable",
+      "tag": "Grado alimenticio",
+      "category": "inoxidable",
+      "summary": "Fabricación de estructuras, aplicación de soldadura inoxidable con argón, colocación de acrílico de 6 mm y montaje de tapa para tolva.",
+      "images": [
+        "cv-p16-05.webp",
+        "cv-p16-04.webp",
+        "cv-p15-01.webp",
+        "cv-p15-03.webp",
+        "cv-p16-02.webp"
+      ]
+    },
+    {
+      "slug": "novohielo-tuberia",
+      "client": "Novo Hielo · Grupo Montosa",
+      "place": "Instalación industrial",
+      "year": "Proyecto documentado",
+      "title": "Tubería inoxidable para enfriador",
+      "tag": "Tubería industrial",
+      "category": "inoxidable",
+      "summary": "Instalación de tubería de acero inoxidable grado alimenticio para enfriador.",
+      "images": [
+        "cv-p20-02.webp",
+        "cv-p20-01.webp",
+        "cv-p20-03.webp",
+        "cv-p20-04.webp"
+      ]
+    },
+    {
+      "slug": "montosa-archivo",
+      "client": "Montosa",
+      "place": "Área de archivo",
+      "year": "Proyecto documentado",
+      "title": "Adecuación de instalaciones de archivo",
+      "tag": "Adecuaciones",
+      "category": "obra-civil",
+      "summary": "Instalación de puertas corredizas de aluminio blanco en el área de archivo.",
+      "images": [
+        "cv-p17-01.webp",
+        "cv-p17-03.webp",
+        "cv-p17-02.webp"
+      ]
+    },
+    {
+      "slug": "vazza-mantenimiento",
+      "client": "Zapaterías Vazza",
+      "place": "Orizaba, Córdoba y sucursales",
+      "year": "Proyecto documentado",
+      "title": "Mantenimiento general en establecimientos",
+      "tag": "Instalaciones comerciales",
+      "category": "electrico",
+      "summary": "Colocación de señalética, cambio de luminarias, reparaciones de tablaroca y trabajos de pintura en sucursales.",
+      "images": [
+        "cv-p18-01.webp",
+        "cv-p18-02.webp",
+        "cv-p18-03.webp",
+        "cv-p18-04.webp"
+      ]
+    },
+    {
+      "slug": "roji-techumbre",
+      "client": "Constructora Roji",
+      "place": "Restaurante Pozolazo",
+      "year": "Proyecto documentado",
+      "title": "Fabricación de estructura para techumbre",
+      "tag": "Montaje estructural",
+      "category": "obra-civil",
+      "summary": "Fabricación de estructura para techumbre de multipanel.",
+      "images": [
+        "cv-p19-03.webp",
+        "cv-p19-01.webp",
+        "cv-p19-02.webp"
+      ]
+    }
+  ]
+}
