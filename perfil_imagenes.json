@@ -243,33 +243,6 @@
     "page": 18
   },
   {
-    "group": "cfe",
-    "title": "CFE · Cuautla",
-    "kind": "proyectos",
-    "category": "cfe",
-    "src": "assets/perfil/cfe-01.webp",
-    "alt": "CFE · Cuautla — registro fotográfico 1",
-    "page": 19
-  },
-  {
-    "group": "cafinco",
-    "title": "CAFINCO · Aglomerador",
-    "kind": "proyectos",
-    "category": "cafinco",
-    "src": "assets/perfil/cafinco-01.webp",
-    "alt": "CAFINCO · Aglomerador — registro fotográfico 1",
-    "page": 20
-  },
-  {
-    "group": "cafinco",
-    "title": "CAFINCO · Aglomerador",
-    "kind": "proyectos",
-    "category": "cafinco",
-    "src": "assets/perfil/cafinco-02.webp",
-    "alt": "CAFINCO · Aglomerador — registro fotográfico 2",
-    "page": 20
-  },
-  {
     "group": "imss",
     "title": "IMSS · Plafón",
     "kind": "proyectos",

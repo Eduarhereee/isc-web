@@ -37,7 +37,7 @@ const form=$('#contactForm');if(form){const wa=$('#contactWA'),err=$('#formError
  wa.addEventListener('click',()=>{if(!check())return;window.open('https://wa.me/522727087984?text='+encodeURIComponent(build()),'_blank','noopener,noreferrer')});
 }
 })();
-// Curated visual archive: 19 stable series, filterable cards and a single accessible viewer.
+// Curated visual archive: 18 stable series, filterable cards and a single accessible viewer.
 (()=>{
  const cards=[...document.querySelectorAll('[data-folio-group]')];
  if(!cards.length)return;

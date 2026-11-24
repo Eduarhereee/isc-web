@@ -18,8 +18,8 @@ No requiere npm, compilador ni instalación de dependencias para funcionar. Las 
 - **Empresa**: historia, misión, visión, cinco valores y carrusel de clientes.
 - **Servicios**: seis capacidades industriales tal como aparecen en el perfil nuevo, además de páginas de especialidad con alcances y fotografías.
 - **Clientes**: directorio organizado por Calzado, Alimentos y agroindustria, Industria y logística e Instituciones.
-- **Proyectos**: 6 fichas principales por cliente con sus intervenciones documentadas (Holcim, Novohielo, CAFINCO, Roji, Montosa y Vazza), además de fichas técnicas por trabajo.
-- **Galería completa**: 68 fotografías visibles del perfil, agrupadas en 19 series con filtros, tarjetas fotográficas uniformes y visor modal. Las 4 fotos correspondientes a CFE/IMSS no están publicadas en la galería. Las páginas de las seis especialidades también conservan las 35 fotos adicionales de los ZIP anteriores.
+- **Proyectos**: 5 fichas principales por cliente con sus intervenciones documentadas (Holcim, Novohielo, Roji, Montosa y Vazza), además de fichas técnicas por trabajo.
+- **Galería completa**: 66 fotografías visibles del perfil, agrupadas en 18 series con filtros, tarjetas fotográficas uniformes y visor modal. Las 4 fotos correspondientes a CFE/IMSS no están publicadas en la galería. Las páginas de las seis especialidades también conservan las 35 fotos adicionales de los ZIP anteriores.
 - **Contacto**: información institucional, teléfono, WhatsApp y formulario que prepara un correo o mensaje.
 
 **Páginas:** 30 archivos `index.html` + `404.html`.
@@ -61,19 +61,19 @@ Los logotipos están en `assets/clientes/`. Verifica autorizaciones de uso para 
 
 
 ## Ajuste de portafolio y galería (18 de noviembre de 2026)
-- Portafolio principal: seis clientes (Holcim, Novohielo, CAFINCO, Constructora Roji, Montosa y Zapaterías Vazza).
+- Portafolio principal: cinco clientes (Holcim, Novohielo, Constructora Roji, Montosa y Zapaterías Vazza).
 - La portada de cada cliente agrupa las intervenciones documentadas; sus fichas técnicas individuales siguen disponibles.
-- CFE e IMSS figuran solamente en el directorio de clientes y ya no tienen fichas de proyecto ni series fotográficas publicadas.
-- Galería: 19 series, 68 fotografías visibles, con portadas de dimensiones consistentes, filtros y visor en la parte superior.
+- CFE, CAFINCO e IMSS figuran solamente en el directorio de clientes y ya no tienen fichas de proyecto ni series fotográficas publicadas.
+- Galería: 18 series, 66 fotografías visibles, con portadas de dimensiones consistentes, filtros y visor en la parte superior.
 - Todos los cambios se entregan como archivos HTML/CSS/JS estáticos; no modifican automáticamente el proyecto de Sites en ChatGPT.
 
 
 ## Ajuste editorial de Inicio y Servicios (18 noviembre 2026)
-- Inicio incorpora un bloque de presentación de la empresa y un explorador interactivo de sectores con cuatro proyectos reales (Holcim, Novohielo, CAFINCO, Vazza).
+- Inicio incorpora un bloque de presentación de la empresa y un explorador interactivo de sectores con cuatro proyectos reales (Holcim, Novohielo, Constructora Roji, Vazza).
 - Explorar sectores: pestañas con selección, navegación mediante flechas / Inicio / Fin, lectura por tecnología asistiva y enlaces a proyectos.
 - Se reemplazó la cifra de fotografías en Inicio por seis especialidades, un indicador más útil para visitantes.
 - Servicios: eliminadas las tres secciones que repetían categorías y se sustituyeron por un catálogo editorial único de las seis capacidades principales, más Soldadura y Climatización.
-- No se modificaron fichas, fotografías ni logotipos del portafolio. CFE e IMSS permanecen exclusivamente en el directorio de clientes.
+- No se modificaron fichas, fotografías ni logotipos del portafolio. CFE, CAFINCO e IMSS permanecen exclusivamente en el directorio de clientes.
 
 
 ## Acabado visual de sectores (19 de noviembre de 2026)

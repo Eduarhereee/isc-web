@@ -483,19 +483,6 @@
       ]
     },
     {
-      "slug": "cfe-ciclo-combinado",
-      "client": "CFE",
-      "place": "Cuautla, Morelos",
-      "year": "Proyecto documentado",
-      "title": "Protección industrial en central de ciclo combinado",
-      "tag": "Recubrimientos",
-      "category": "acabados",
-      "summary": "Servicio de sandblasting y pintura de generador de vapor General Electric, junto con sustitución de aislamiento de fibra de vidrio en tubería caliente.",
-      "images": [
-        "cv-p11-01.webp"
-      ]
-    },
-    {
       "slug": "imss-plafon",
       "client": "IMSS",
       "place": "Hospital General Regional, Orizaba",
@@ -508,20 +495,6 @@
         "cv-p12-02.webp",
         "cv-p12-01.webp",
         "cv-p12-03.webp"
-      ]
-    },
-    {
-      "slug": "cafinco-aglomerador",
-      "client": "CAFINCO",
-      "place": "Córdoba, Veracruz",
-      "year": "Proyecto documentado",
-      "title": "Cimentación y estructura para aglomerador",
-      "tag": "Obra civil",
-      "category": "obra-civil",
-      "summary": "Trabajos de excavación, cimentación y estructura de cinco niveles para proyecto de aglomerador.",
-      "images": [
-        "cv-p13-02.webp",
-        "cv-p13-04.webp"
       ]
     },
     {
